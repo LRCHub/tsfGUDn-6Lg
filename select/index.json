@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "カリフォルニー",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2026-02-12T12:46:01.341257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カリフォルニー",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/01_カリフォルニー_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カリフォルニー",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/02_カリフォルニー_ケツメイシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カリフォルニー",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_カリフォルニー_ケツメイシ.txt"
+    }
+  ]
+}
